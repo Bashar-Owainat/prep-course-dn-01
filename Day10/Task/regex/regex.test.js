@@ -12,7 +12,7 @@ function capitalA(s){
     return result;
 }
    
-
+//done
 
 
 /* Write a function that take a string and return true if the the sting is following the emails pattern
